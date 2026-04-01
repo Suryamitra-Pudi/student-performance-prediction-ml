@@ -38,6 +38,15 @@ The dataset contains student academic information such as:
 - Previous Grades (G1, G2)
 - Final Grade (G3)
 
+## ⭐ Highlights
+- Built complete ML pipeline from scratch
+- Compared multiple models
+- Achieved MAE of 1.3
+
+## 📸 Output
+
+![Graph](OutputScreenshot.png)
+
 Source: UCI Machine Learning Repository
 
 ## 🚀 Conclusion
