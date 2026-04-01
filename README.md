@@ -45,7 +45,7 @@ The dataset contains student academic information such as:
 
 ## 📸 Output
 
-![Graph](OutputScreenshot.png)
+![Graph](graph.png)
 
 Source: UCI Machine Learning Repository
 
